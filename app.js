@@ -1,4 +1,4 @@
-import React, { useState } from "react"; import "./App.css";
+import React, { useState } from "react"; import "./app.css";
 
 const App = () => { const [page, setPage] = useState("welcome");
 
